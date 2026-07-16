@@ -1,0 +1,26 @@
+full-stack-blog-auth
+│
+├── client
+│   ├── public
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── context
+│   │   ├── services
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
+│   └── vite.config.js
+│
+├── server
+│   ├── config
+│   ├── controllers
+│   ├── middleware
+│   ├── models
+│   ├── routes
+│   ├── package.json
+│   ├── server.js
+│   └── .env.example
+│
+├── README.md
+└── .gitignore
